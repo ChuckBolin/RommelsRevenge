@@ -1,0 +1,10218 @@
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 22:57:6
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 58
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 52
+FPS, 54
+Play::activate()
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Play::activate()
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Play::activate()
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 54
+Play::activate()
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 52
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:0:9
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 52
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 56
+FPS, 54
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 54
+FPS, 54
+FPS, 58
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 52
+FPS, 54
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+FPS, 58
+Play::activate()
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+FPS, 58
+Play::activate()
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+Play::activate()
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 48
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:3:26
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 54
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:5:11
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Play::activate()
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 51
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Initialize Next Level
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+Play::activate()
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+FPS, 52
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+FPS, 56
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+Play::activate()
+FPS, 58
+Play::activate()
+Loading level, 3
+Waypoints cleared
+addLevel, 3
+File is valid
+FPS, 48
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:19:45
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:21:25
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:23:30
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:32:47
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:33:56
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:34:39
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+FPS, 54
+FPS, 56
+FPS, 54
+FPS, 52
+FPS, 56
+FPS, 51
+FPS, 54
+FPS, 51
+FPS, 51
+FPS, 53
+FPS, 51
+FPS, 52
+FPS, 51
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:41:20
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:41:29
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+FPS, 52
+FPS, 51
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:50:42
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 57
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:52:44
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 54
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 56
+FPS, 58
+FPS, 56
+FPS, 54
+FPS, 56
+FPS, 58
+FPS, 56
+FPS, 56
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/13/2007
+Time: 23:59:51
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+FPS, 56
+FPS, 56
+FPS, 54
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 52
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 58
+Player Wins
+FPS, 58
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 52
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 0:2:18
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+FPS, 56
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 56
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 52
+FPS, 51
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 1:16:46
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+FPS, 56
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Player Wins
+Player Wins
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 56
+Player Wins
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 54
+FPS, 50
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 1:19:25
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 56
+Player Wins
+FPS, 52
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 1:21:52
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Player Wins
+Player Wins
+Player Wins
+FPS, 58
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 1:49:32
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Player Wins
+FPS, 56
+FPS, 54
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 56
+Player Wins
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Playing, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 1:55:47
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Player Wins
+FPS, 54
+FPS, 58
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 56
+Player Wins
+FPS, 58
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 52
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 51
+FPS, 51
+FPS, 58
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:1:22
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 52
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:6:55
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 56
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:10:29
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 54
+FPS, 54
+FPS, 58
+FPS, 56
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 54
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:14:29
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+FPS, 54
+FPS, 51
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:15:50
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:17:18
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Playing, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:22:23
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 54
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 56
+FPS, 58
+FPS, 58
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 51
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:32:13
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Playing, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:33:31
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:41:49
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:42:42
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:43:25
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 54
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:44:30
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 2:50:43
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 52
+FPS, 56
+FPS, 56
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:0:19
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 52
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:2:3
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 54
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:4:4
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 54
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:6:5
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:7:25
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:8:30
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Playing, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:10:4
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:10:17
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:13:16
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 54
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:13:47
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 58
+FPS, 54
+FPS, 58
+FPS, 54
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:16:28
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:16:59
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:17:52
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 56
+FPS, 54
+FPS, 54
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 58
+FPS, 58
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:19:25
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+FPS, 56
+FPS, 58
+Player Wins
+Player Wins
+Player Wins
+Player Wins
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:20:46
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 54
+FPS, 58
+FPS, 58
+FPS, 54
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 58
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:26:20
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:30:4
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:30:13
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 56
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 55
+FPS, 58
+FPS, 56
+FPS, 58
+Initialize Next Level
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 58
+FPS, 54
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+Loading level, 2
+Waypoints cleared
+addLevel, 2
+File is valid
+FPS, 58
+FPS, 54
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:34:38
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 56
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:35:15
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 52
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:36:16
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Playing, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:36:36
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 54
+FPS, 52
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:38:16
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:45:44
+*************************************
+ScreenWidth, 1680
+ScreenHeight, 1031
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1674
+WindowHeight, 1006
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+FPS, 58
+FPS, 58
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 56
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 52
+FPS, 51
+FPS, 54
+FPS, 54
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:51:28
+*************************************
+ScreenWidth, 1360
+ScreenHeight, 749
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1354
+WindowHeight, 724
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:53:11
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 1005
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 980
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:54:58
+*************************************
+ScreenWidth, 800
+ScreenHeight, 581
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 794
+WindowHeight, 556
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:57:18
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:57:57
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/14/2007
+Time: 3:58:36
+*************************************
+ScreenWidth, 1280
+ScreenHeight, 781
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1274
+WindowHeight, 756
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Playing, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+FPS, 56
+FPS, 58
+FPS, 58
+FPS, 54
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
+*************************************
+Rommel's Fantasy Revenge...Starting...
+Date: 10/27/2007
+Time: 21:2:53
+*************************************
+ScreenWidth, 1680
+ScreenHeight, 1031
+Game states initialized!
+Game State = Intro
+CreateWindowEx
+Window creation successful!
+Game state transitions events
+g_pStateIntro, 1
+g_pStateMain, 1
+g_pStatePlay, 1
+g_pStateScore, 1
+g_pStateHelp, 1
+DirectX9 creation successful!
+D3D_SDK_VERSION, 32
+GetDeviceCaps succeeded!
+Windowed Mode
+WindowWidth, 1674
+WindowHeight, 1006
+BackBuffer setup
+Device creation succeeded!
+Sprite (tank1.png) loaded!
+Sprite (buttons2.png) loaded!
+assets\sounds\tank_idle.wav, 0
+assets\sounds\tank_acc.wav, 1
+assets\sounds\tank_driving.wav, 2
+assets\sounds\tank_deacc.wav, 3
+assets\sounds\tank_shoot.mp3, 4
+assets\sounds\tank_turret.mp3, 5
+assets\sounds\enemy.mp3, 6
+assets\sounds\tank_explode.wav, 7
+assets\sounds\intro.mp3, 8
+assets\sounds\play.mp3, 9
+assets\sounds\credits.mp3, 10
+assets\sounds\explode_close.mp3, 11
+assets\sounds\war_ends.wav, 12
+assets\sounds\51.wav, 13
+assets\sounds\explosion_distant2.wav, 14
+assets\sounds\panzerlied8.mp3, 15
+Audio samples loaded!
+Main game loop entered!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Playing, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Loading level, 1
+Waypoints cleared
+addLevel, 1
+File is valid
+FPS, 58
+FPS, 58
+DirectX closed!
+Stopped, 0
+Stopped, 1
+Stopped, 2
+Stopped, 3
+Stopped, 4
+Stopped, 5
+Stopped, 6
+Stopped, 7
+Stopped, 8
+Stopped, 9
+Stopped, 10
+Stopped, 11
+Stopped, 12
+Stopped, 13
+Stopped, 14
+Stopped, 15
+Audio sounds are all killed!
+***************************
+Program ended!
+***************************
